@@ -1,5 +1,4 @@
--- 制作
--- owo(Q3780760078)(填注释) 未来(Q3195146818)(文件解密) 
+
 --[[
 Semantically equivalent reconstruction of:
   @F:/minichina/AssetRuntime/CommonResource/Assets/../Script/luascript/ugc/framework/api/DevApiCfg.lua
